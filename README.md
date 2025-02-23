@@ -1,0 +1,1 @@
+Welcome to Gold Port. To get started, head on over to the [wiki](https://github.com/YWBK/gold-port/wiki)
